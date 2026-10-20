@@ -2,14 +2,41 @@
 
 ## Muhammad Sohaib
 
-E-commerce and digital operations, Dubai. I own Amazon marketplace execution end to
-end — catalog health, Seller Central troubleshooting, and the automation that keeps a
-2,000+ SKU environment consistent as it scales.
+I build **AI coding integrations, developer tools, and operational automation** in
+Dubai, UAE. I care about what happens beyond the demo: preserving existing setups,
+verifying real behavior, and making changes reversible.
 
-Most of my work starts as an operational failure that keeps recurring. Suppressed
-listings, broken parent-child variations, feed uploads that reject without saying why.
-The interesting part is not fixing one — it is turning the pattern into a validation
-rule, an upload-ready file, or a tool that stops it happening again.
+My background is in e-commerce and digital operations. I work across Amazon
+marketplace execution, Seller Central troubleshooting, and automation supporting
+a 2,000+ SKU environment. I like turning recurring operational problems into
+reusable, testable tools rather than one-off fixes.
+
+## Featured open-source contribution
+
+### Pollinations — Codex and Claude Code router harnesses
+
+**Merged into [Pollinations](https://github.com/pollinations/pollinations) on September 28, 2026.**
+
+I built the Codex Router and Claude Code Router harness adapters for the Polli CLI,
+with `on`, `off`, and `status` lifecycle commands. The goal wasn't just to
+connect coding agents to another API: it was to make the integration safe to
+try in an environment someone already relies on.
+
+- **Protect existing setups:** use supported router configuration paths, keep
+  credentials in router-managed storage, and reject changes to configuration
+  the integration doesn't own.
+- **Make setup reversible:** use an isolated Claude Code Router profile,
+  targeted cleanup of Polli-owned state, and rollback when setup checks fail.
+- **Verify real behavior:** test streaming, tool calling, and child-key usage
+  with actual clients and routers. **19/19 targeted adapter tests passed.**
+
+**Independent recognition:** In October 2026, XERJ selected the merged
+implementation for its **Corpus Hub** as an attributed reference for AI coding
+agents. My contributor page went live on October 20.
+
+[**Merged pull request #15289**](https://github.com/pollinations/pollinations/pull/15289) ·
+[**XERJ Corpus Hub contributor page**](https://hub.xerj.org/contributors/muhamedsohaib) ·
+[**LinkedIn write-up**](https://www.linkedin.com/feed/update/urn:li:share:7518309042612797440/)
 
 **Currently building**
 
@@ -34,10 +61,10 @@ BBA, National University of Sciences & Technology (NUST), Islamabad.
 **Working with**
 
 `Amazon Seller Central` `Category Listings Reports` `flat files / XLSM` `SKU & inventory ops`
-`SEO` `PPC` `CRO` `GA4` `Power BI` `Tableau` `Excel / VBA` `n8n` `Python` `PostgreSQL` `Next.js`
+`SEO` `PPC` `CRO` `GA4` `Power BI` `Tableau` `Excel / VBA` `n8n` `Python` `TypeScript` `Node.js` `PostgreSQL` `Next.js`
 
 ---
 
 [LinkedIn](https://www.linkedin.com/in/muhamedsohaib/) · muhammadsohaibsaif@gmail.com
 
-Open to e-commerce and marketplace operations roles in the UAE. 30-day notice period.
+Open to AI workflow automation, technical integrations, and e-commerce operations opportunities in the UAE. 30-day notice period.

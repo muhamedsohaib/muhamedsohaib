@@ -1,5 +1,3 @@
-<img src="https://muhamedsohaib.github.io/og.png" alt="Muhammad Sohaib — E-commerce &amp; Marketplace Operations" width="100%">
-
 ## Muhammad Sohaib
 
 I build **AI coding integrations, developer tools, and operational automation** in

@@ -13,7 +13,9 @@ into testable, reusable tools rather than one-off fixes.
 `AI coding-agent integrations` `Automated testing (Vitest)` `Configuration safety & rollback`
 `Git / GitHub` `Python` `PostgreSQL` `Next.js` `n8n`
 
-## Featured open-source contribution
+## Merged open-source contributions
+
+Two contributions merged into [Pollinations](https://github.com/pollinations/pollinations): developer-tool integrations and a collective-memory collaboration agent.
 
 ### Pollinations — Codex and Claude Code router harnesses
 
@@ -39,6 +41,26 @@ agents. My contributor page went live on October 20.
 [**Merged pull request #15289**](https://github.com/pollinations/pollinations/pull/15289) ·
 [**XERJ Corpus Hub contributor page**](https://hub.xerj.org/contributors/muhamedsohaib) ·
 [**LinkedIn write-up**](https://www.linkedin.com/feed/update/urn:li:share:7518309042612797440/)
+
+### Micro-Mission Broker — collective-memory agent
+
+**[Merged PR #15257](https://github.com/pollinations/pollinations/pull/15257) · October 1, 2026**
+
+I contributed a compact prompt-based agent for Pollinations using the Computer MCP.
+Each successful cycle inspects shared collective memory and adds one small,
+verifiable collaboration task under `collabs/jobs/` for another contributor
+or agent to pick up.
+
+- **Respect shared state:** append a new job without modifying existing work;
+  stop on unexpected Git state rather than overwrite someone else's changes.
+- **Demonstrate behavior:** three documented live runs created distinct
+  collaboration jobs, each backed by a public commit.
+
+**Live-run evidence:**
+[Run 1](https://github.com/pollinations/collective-memory/commit/e24f38e78ce363278bcff15e8a286500f3a298c6) ·
+[Run 2](https://github.com/pollinations/collective-memory/commit/da922d7f14813dbf48aef4350fc2a5344dfe47dc) ·
+[Run 3](https://github.com/pollinations/collective-memory/commit/25befa29ded65fed1129591abd289ecc659dda8c)
+
 
 **Currently building**
 

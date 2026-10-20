@@ -4,10 +4,16 @@ I build **AI coding integrations, developer tools, and operational automation** 
 Dubai, UAE. I care about what happens beyond the demo: preserving existing setups,
 verifying real behavior, and making changes reversible.
 
-My background is in e-commerce and digital operations. I work across Amazon
-marketplace execution, Seller Central troubleshooting, and automation supporting
-a 2,000+ SKU environment. I like turning recurring operational problems into
-reusable, testable tools rather than one-off fixes.
+My operations background shapes how I build software: turn recurring failures
+into testable, reusable tools rather than one-off fixes.
+
+### Core engineering skills
+
+`TypeScript` `JavaScript` `Node.js` `API integrations` `CLI & developer tooling`
+`AI coding-agent integrations` `Automated testing (Vitest)` `Configuration safety & rollback`
+`Git / GitHub` `Python` `PostgreSQL` `Next.js` `n8n`
+
+
 
 ## Featured open-source contribution
 
@@ -55,11 +61,6 @@ promoted from the sales floor. Started in digital payments at epay (Euronet Worl
 shipping 20+ products under ISO/PCI DSS-oriented controls.
 
 BBA, National University of Sciences & Technology (NUST), Islamabad.
-
-**Working with**
-
-`Amazon Seller Central` `Category Listings Reports` `flat files / XLSM` `SKU & inventory ops`
-`SEO` `PPC` `CRO` `GA4` `Power BI` `Tableau` `Excel / VBA` `n8n` `Python` `TypeScript` `Node.js` `PostgreSQL` `Next.js`
 
 ---
 

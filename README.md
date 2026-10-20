@@ -13,8 +13,6 @@ into testable, reusable tools rather than one-off fixes.
 `AI coding-agent integrations` `Automated testing (Vitest)` `Configuration safety & rollback`
 `Git / GitHub` `Python` `PostgreSQL` `Next.js` `n8n`
 
-
-
 ## Featured open-source contribution
 
 ### Pollinations — Codex and Claude Code router harnesses
@@ -54,16 +52,11 @@ agents. My contributor page went live on October 20.
 
 **Background**
 
-E-commerce & Digital Operations Manager at Holo-Protection (Dubai, 2023–present),
-leading UAE/KSA expansion and Amazon.ae catalog operations. Before that, Operations
-Team Lead for an 80+ member unit supporting US fintech Truebill (now Rocket Money),
-promoted from the sales floor. Started in digital payments at epay (Euronet Worldwide),
-shipping 20+ products under ISO/PCI DSS-oriented controls.
+Currently working at the intersection of marketplace operations, AI integrations,
+and workflow automation.
 
-BBA, National University of Sciences & Technology (NUST), Islamabad.
+BBA — NUST Business School.
 
 ---
 
 [LinkedIn](https://www.linkedin.com/in/muhamedsohaib/) · muhammadsohaibsaif@gmail.com
-
-Open to AI workflow automation, technical integrations, and e-commerce operations opportunities in the UAE. 30-day notice period.

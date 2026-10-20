@@ -1,6 +1,4 @@
-<a href="https://muhamedsohaib.github.io/">
-  <img src="https://muhamedsohaib.github.io/og.png" alt="Muhammad Sohaib — E-commerce &amp; Marketplace Operations" width="100%">
-</a>
+<img src="https://muhamedsohaib.github.io/og.png" alt="Muhammad Sohaib — E-commerce &amp; Marketplace Operations" width="100%">
 
 ## Muhammad Sohaib
 
@@ -40,6 +38,6 @@ BBA, National University of Sciences & Technology (NUST), Islamabad.
 
 ---
 
-**[Interactive resume](https://muhamedsohaib.github.io/)** · [PDF](https://muhamedsohaib.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/muhamedsohaib/) · muhammadsohaibsaif@gmail.com
+[LinkedIn](https://www.linkedin.com/in/muhamedsohaib/) · muhammadsohaibsaif@gmail.com
 
 Open to e-commerce and marketplace operations roles in the UAE. 30-day notice period.
